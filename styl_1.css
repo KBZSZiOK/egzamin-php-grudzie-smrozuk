@@ -1,0 +1,48 @@
+body{
+    background-color: #F6E5DC;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    background-color: #2F180C;
+    text-align: center;
+    color: khaki;
+    height: 60px;
+}
+
+#lewo{
+    width: 60%;
+    float: left;
+    box-sizing: border-box;
+}
+
+#prawo{
+    font-size: 150%;
+    padding: 70px;
+    float: right;
+    box-sizing: border-box;
+}
+
+#dolny{
+    background-color: #D0B6A8;
+    text-align: center;
+    padding: 30px;
+    clear: both;  
+}
+
+header{
+    background-color: #2F180C;
+    color: khaki;
+    height: 60px;
+}
+
+img{
+    height: 350px;
+}
+
+#reset,#submit{
+    margin: 10px;
+    padding: 5px;
+    background-color: #2F180C;
+    color: khaki;
+}
